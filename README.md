@@ -1,6 +1,6 @@
 - HW: Click, https://classroom.github.com/assignment-invitations/c90b312b85131a1aac85b2fdedea0075
 - HW: 9/Functions: Build new code modules.
-- HW: Create a reusable function or set of functions that output a variety of creatures based off its inputs. Create a trigger that generates each new creature.
+- HW: Create a reusable custom function or set of functions that output a variety of creatures based off its inputs. Create a trigger that generates each new creature.
 - Inspiration:
   - Diatoms, https://en.wikipedia.org/wiki/Diatom
   - Spore, https://en.wikipedia.org/wiki/Spore_(2008_video_game)
